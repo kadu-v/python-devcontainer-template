@@ -1,1 +1,1 @@
-# python-workspace-devcontainer
+# python-devcontainer-template
